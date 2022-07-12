@@ -1,0 +1,88 @@
+{
+    "quiz_name": "Planet Quiz",
+    "description": "There are eight planets in our solar system. Everyone should have some basic knowledge about the rest of the planets orbiting around the sun with ours. Let's test your knowledge.",
+    "questions": 
+    [
+        {
+            "id": 1,
+            "question": "Which is the smallest planet within our solar system?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Mercury",
+                    "correct": true
+                },
+                {
+                    "id": "b",
+                    "text": "Venus",
+                    "correct": false
+                },
+                {
+                    "id": "c",
+                    "text": "Jupiter",
+                    "correct": false
+                },
+                {
+                    "id": "d",
+                    "text": "Mars",
+                    "correct": false
+                }
+            ],
+            "explanation": "<strong>Reference:</strong>\n</p>\n<p>\n  <a target=\"_blank\" href=\"https://www.universetoday.com/36649/planets-in-order-of-size/\">Planet Size</a>\n</p>"
+        },
+        {
+            "id": 2,
+            "question": "The moon called Titan orbits which planet?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Venus",
+                    "correct": false
+                },
+                {
+                    "id": "b",
+                    "text": "Saturn",
+                    "correct": true
+                },
+                {
+                    "id": "c",
+                    "text": "Jupiter",
+                    "correct": false
+                },
+                {
+                    "id": "d",
+                    "text": "Earth",
+                    "correct": false
+                }
+            ],
+            "explanation": "<strong>Reference:</strong>\n</p>\n<p>\n  <a target=\"_blank\" href=\"https://solarsystem.nasa.gov/moons/saturn-moons/overview/\">Saturn Moon</a>\n</p>"
+        },
+        {
+            "id": 3,
+            "question": "Which planets have rings around them?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "Venus",
+                    "correct": false
+                },
+                {
+                    "id": "b",
+                    "text": "Earth",
+                    "correct": false
+                },
+                {
+                    "id": "c",
+                    "text": "Saturn",
+                    "correct": true
+                },
+                {
+                    "id": "d",
+                    "text": "Uranus",
+                    "correct": true
+                }
+            ],
+            "explanation": "<strong>Reference:</strong>\n</p>\n<p>\n  <a target=\"_blank\" href=\"https://www.universetoday.com/77109/which-planets-have-rings/\">Planets with Rings</a>\n</p>"
+        }
+    ]
+}
