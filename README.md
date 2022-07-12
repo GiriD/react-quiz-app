@@ -2,10 +2,7 @@
 
 [Live Demo](https://girid.github.io/react-quiz-app/)
 
-<br />
-
 ## Features
----
 
 + Summary/Information page to provide description of the quiz
 + Immediately view answer and explanation for current question
@@ -15,7 +12,6 @@
 <br />
 
 ## Code Breakdown
----
 
 ### `Quiz JSON`
 
@@ -62,7 +58,6 @@ Questions array in the quiz object can contain any number of questions. Each que
 
 ```
 
-<br />
 <br />
 
 ### `App Component`
