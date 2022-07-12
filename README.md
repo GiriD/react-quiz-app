@@ -2,6 +2,8 @@
 
 [Live Demo](https://girid.github.io/react-quiz-app/)
 
+<br />
+
 ## Features
 
 + Summary/Information page to provide description of the quiz
@@ -54,9 +56,9 @@ Quiz data is stored in JSON format. A sample quiz object looks like below.
     ]
 }
 
-Questions array in the quiz object can contain any number of questions. Each question object in questions array contains explanation for the answer and 'options' array with one or more 'correct' options. 
-
 ```
+
+Questions array in the quiz object can contain any number of questions. Each question object in questions array contains explanation for the answer and 'options' array with one or more 'correct' options. 
 
 <br />
 
